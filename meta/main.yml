@@ -1,0 +1,6 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: OSU-SIG
+  description: add EPEL repository to RedHat hosts
